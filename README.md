@@ -9,4 +9,4 @@ This site is James **Archive of Information** on music
 
 Here is [James GitHub site](https://jamesforehand1.github.io/Test/)
 
-![Random Image](github.jpeg)
+![Random Image](Studio-Setup.jpg)
